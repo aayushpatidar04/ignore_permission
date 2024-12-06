@@ -1,0 +1,20 @@
+{
+ "content": null,
+ "creation": "2024-10-05 19:43:37.045335",
+ "docstatus": 0,
+ "doctype": "Page",
+ "icon": "fa fa-filter",
+ "idx": 0,
+ "modified": "2024-10-07 18:07:47.563229",
+ "modified_by": "Administrator",
+ "module": "Field Service Management",
+ "name": "schedule-board",
+ "owner": "Administrator",
+ "page_name": "schedule-board",
+ "roles": [],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Schedule Board"
+}
