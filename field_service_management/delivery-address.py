@@ -95,7 +95,6 @@ def get_item_table(name):
         """,
         (name,),
         as_dict=True,
-        ignore_permissions=True
     )
     return childs
 
@@ -110,7 +109,6 @@ def get_symptoms_table(name):
         """,
         (name,),
         as_dict=True,
-        ignore_permissions=True
     )
     return childs
 
@@ -125,7 +123,6 @@ def get_spare_items(name):
         """,
         (name,),
         as_dict=True,
-        ignore_permissions=True
     )
     return childs
 
@@ -155,7 +152,6 @@ def site_survey(name):
         """,
         (name,),
         as_dict=True,
-        ignore_permissions=True
     )
     return childs
 
